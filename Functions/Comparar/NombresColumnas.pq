@@ -19,7 +19,7 @@ let
     meta [
 
         Documentation.Name = "Comparar.NombresColumnas",
-        Documentation.Author = "Francisco Mullor",
+        Documentation.Author = "Francisco Mullor"
           ],
     
   // Define the main function and parameters
